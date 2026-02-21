@@ -1,0 +1,7 @@
+heatmap/heatmap_results_1/
+heatmap/__pycache__/
+heatmap/hrnet_results_arc/
+heatmap/hrnet_results/
+heatmap/heatmap_results_arc/
+heatmap/train2.py
+heatmap/train3.py
